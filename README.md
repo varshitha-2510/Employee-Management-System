@@ -1,6 +1,6 @@
-Employee Management System
+----------------------------------------Employee Management System---------------------------------------------------------
 
-Project Description
+Project Description:
 
 The Employee Management System is a Python-based console application used to manage employee records in an organization.
 
@@ -28,9 +28,7 @@ The system is developed using:
 * Conditional Statements
 * Loops
 
-⸻
-
-Features
+Features:
 
 1. Add Employee
 
@@ -44,37 +42,25 @@ Add new employee details including:
 * Phone Number
 * Experience
 
-⸻
-
 2. View Employees
 
 Displays all employee records stored in the system.
-
-⸻
 
 3. Search Employee
 
 Search employee using Employee ID.
 
-⸻
-
 4. Remove Employee
 
 Delete employee details from the system.
-
-⸻
 
 5. Mark Attendance
 
 Updates employee attendance count.
 
-⸻
-
 6. Update Salary
 
 Increase employee salary using percentage increment.
-
-⸻
 
 7. Calculate Bonus
 
@@ -84,25 +70,17 @@ Bonus is calculated based on attendance:
 * Attendance >= 15 → ₹3000
 * Otherwise → ₹1000
 
-⸻
-
 8. Apply Leave
 
 Employees can apply leave based on available leave balance.
-
-⸻
 
 9. Show Leave Balance
 
 Displays remaining leave balance.
 
-⸻
-
 10. Transfer Department
 
 Transfer employee from one department to another.
-
-⸻
 
 11. Generate Salary Slip
 
@@ -113,22 +91,16 @@ Displays:
 * Bonus
 * Net Salary
 
-⸻
-
 12. Get Salary
 
 Displays current employee salary.
 
-⸻
-
-Technologies Used
+Technologies Used:
 
 * Python
 * VS Code
 * Git
 * GitHub
-
-⸻
 
 Concepts Used
 
@@ -141,8 +113,6 @@ Concepts Used
 * Loops
 * Conditional Statements
 * OOP Concepts
-
-⸻
 
 File Structure
 
@@ -161,13 +131,9 @@ Clone repository:
 
 git clone <repository_link>
 
-⸻
-
 Step 2
 
 Open project in VS Code.
-
-⸻
 
 Step 3
 
@@ -175,9 +141,7 @@ Run Python file:
 
 python "Employee management system.py"
 
-⸻
-
-Sample Menu
+Sample Menu:
 
 SMART HR MANAGEMENT SYSTEM
 1. Add Employee
@@ -194,8 +158,6 @@ SMART HR MANAGEMENT SYSTEM
 12. Get Salary
 13. Exit
 
-⸻
-
 Future Enhancements
 
 * Database integration using MySQL/PostgreSQL
@@ -204,8 +166,5 @@ Future Enhancements
 * Employee Data Export
 * File Handling
 * Attendance Reports
-
-
-
 
 This project is developed for learning and educational purposes.
